@@ -1,4 +1,6 @@
-# gh-workflows-project.github.io
+# Github Pages from html
+
+This repo demonstrates code for the GitHub Pages educational project. The pages are deployed at [pages](https://profile-sh.github.io/ghpages-html)
 
 - The pages source in the repo settings has to be main branch and folder docs for this to work. 
 - The apps folders under docs will be auto deployed to github pages at h-workflows-project.github.io/app_path_to_index.html.
